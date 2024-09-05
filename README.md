@@ -8,11 +8,11 @@ A mobile application made with ReactNative to track your workouts by keeping tra
 </div>
 
 ## Table of Contents 📖
-- [Features](#features)
-- [Code](#code)
-- [Database](#database)
-- [Installation](#installation)
-- [Screenshots](#screenshots)
+- [Features](#features) 
+- [Code](#code-)
+- [Database](#database-)
+- [Installation](#installation-%EF%B8%8F)
+- [Screenshots](#screenshots-%EF%B8%8F)
 
 ## Features 
 - Add/Delete workouts, sets, and reps
